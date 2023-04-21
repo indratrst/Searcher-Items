@@ -54,6 +54,7 @@ export default function SearchBar({
               variant="btn btn-primary"
               onClick={handleSubmit}
               id="button-addon2"
+              type="submit"
             >
               Button
             </Button>
