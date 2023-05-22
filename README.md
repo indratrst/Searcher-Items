@@ -1,3 +1,10 @@
+# Hasil
+Anda Bisa Melihat hasilnya pada folder public lalu folder result maka anda akan menemukan file berupa png merupakan hasil dari program yang dibuat
+
+
+
+
+###
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
